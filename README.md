@@ -40,9 +40,9 @@
 
 <a href="https://www.instagram.com/agueromark/?hl=es-la"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Marcos Aguero-black?style=flat-square&logo=instagram"></a>
 
-<a href="mailto:yonidj52@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yonidj52@hotmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="mailto:yonidj52@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yonidj52@hotmail.com-blue?style=flat-square&logo=gmail"></a>
 
-
+![Snake animation](https://github.com/WandaCatellani/WandaCatellani/blob/output/github-contribution-grid-snake.svg)
 
 
 
