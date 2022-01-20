@@ -1,4 +1,4 @@
-### Hi there 👋<h2> Mi nombre es Marcos Aguero </h2>
+# Hi there 👨‍💻 <h2> Mi nombre es Marcos Aguero </h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
