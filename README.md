@@ -13,7 +13,7 @@
 - 🌱 Aprender sobre nuevas tecnologías para ampliar mis conocimento.
 
 
-<h3>🛠 Tech Stack</h3>
+<h3>🛠 Skills </h3>
 
 
 
@@ -21,7 +21,7 @@
 
 
 
-<br/><br/>
+<br/>
 
 
 
@@ -32,7 +32,7 @@
 
 <h3> 🤝🏻 Coctactos </h3>
 
-<br>
+
 
 <p align="center">
 
