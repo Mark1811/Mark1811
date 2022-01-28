@@ -6,7 +6,7 @@
 
 
 
-- 🤔 Explorar nuevas tecnologías y desarrollar soluciones de software
+- 🤔 Curioso, compremetido y organizado
 
 - 🎓 Estudiante en la Lic en Gestion de la tecnologia de la informacion- Unpaz
 
