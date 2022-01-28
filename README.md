@@ -6,7 +6,7 @@
 
 
 
-- 🤔 Curioso, compremetido y organizado
+- 🤔 Curioso, comprometido y organizado
 
 - 🎓 Estudiante en la Lic en Gestion de la tecnologia de la informacion- Unpaz
 
